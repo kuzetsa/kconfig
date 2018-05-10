@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86 4.16.7-ck Kernel Configuration
+# Linux/x86 4.16.8-ck Kernel Configuration
 #
 
 #
@@ -3491,7 +3491,6 @@ CONFIG_X86_PLATFORM_DEVICES=y
 # CONFIG_ACERHDF is not set
 # CONFIG_ASUS_LAPTOP is not set
 # CONFIG_DELL_SMBIOS is not set
-# CONFIG_DELL_LAPTOP is not set
 # CONFIG_DELL_SMO8800 is not set
 # CONFIG_FUJITSU_LAPTOP is not set
 # CONFIG_FUJITSU_TABLET is not set
