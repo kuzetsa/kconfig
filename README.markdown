@@ -1,4 +1,4 @@
-# **4.15-ck1 kconfig** #
+# **4.17-ck1 kconfig** #
 
 .config for sys-kernel/ck-sources (*gentoo*) which  
 works adequately on my personal hardware. YMMV  
